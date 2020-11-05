@@ -10,8 +10,8 @@ body {
   min-height: 100vh;
 }
 .content-container {
-  display: flex;
-  flex: 1 1 auto;
+  /* display: flex; */
+  /* flex: 1 1 auto; */
   padding-top: 10vh;
   width: 100%;
 }
