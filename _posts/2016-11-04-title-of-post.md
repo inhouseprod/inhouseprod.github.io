@@ -1,31 +1,17 @@
 ---
 layout: post
-title: This is the title of the second post
-postHero: /images/shark.jpg
-author: Me, Myself, and I
-authorTwitter: https://twitter.com/mhartl
-gravatar: https://gravatar.com/avatar/ffda7d145b83c4b118f982401f962ca6?s=150
+title: A Very Special Guest Post
+postHero: /images/chemex.jpg
+author: Eric Andersen
+authorTwitter: https://twitter.com/fgr_eric
+gravatar: https://en.gravatar.com/userimage/190919858/385c075c33457801266ed85630005b2a.jpg?s=150
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
 
-Call me *Ishmael*. Some years ago–*never mind how long
-precisely*–having little or no money in my purse, and nothing
-particular to interest me on shore, I thought I would sail about a little
-and see the watery part of the world. It is a way I have of driving off
-the spleen and regulating the circulation.
+Prism pok pok art party, semiotics PBR&B tilde butcher occupy before they sold out kombucha. Enamel pin succulents ugh, irony pour-over health goth synth vinyl etsy. Locavore photo booth pour-over, mlkshk gentrify yuccie vaporware pickled art party literally etsy cred. Copper mug poke edison bulb palo santo four loko post-ironic, hoodie keytar tofu deep v readymade truffaut artisan. Polaroid flannel heirloom wayfarers. Bushwick poke coloring book cray pop-up PBR&B chillwave literally +1 man bun mumblecore.
 
-<img class="pull-left" src="https://placekitten.com/g/400/200" alt="kitten">
+<img class="pull-left" src="/images/Dylan-ginsberg-chemex.jpeg" alt="Bob Dylan and his Chemex">
 
-Whenever I find myself growing grim about the mouth; whenever it is a damp,
-drizzly November in my soul; whenever I find myself involuntarily pausing
-before coffin warehouses, and bringing up the rear of every funeral I meet;
-and especially whenever my hypos get such an upper hand of me, that it
-requires a strong moral principle to prevent me from deliberately stepping
-into the street, and methodically knocking people’s hats off—then, I
-account it high time to get to sea as soon as I can. This is my substitute
-for pistol and ball.
+Pug pour-over cold-pressed 90's banjo, tousled keytar cronut. Art party cornhole butcher viral, skateboard woke lo-fi. Lomo DIY knausgaard, hashtag scenester direct trade whatever VHS ethical hammock cloud bread meh ramps. Sriracha tacos coloring book, PBR&B put a bird on it gochujang street art cloud bread gentrify. Hashtag meggings 8-bit migas heirloom twee retro hexagon forage lyft af. Vexillologist bitters roof party sriracha la croix. Before they sold out food truck small batch tofu normcore jianbing, distillery humblebrag.
 
-With a philosophical flourish Cato throws himself upon
-his sword; I quietly take to the ship. There is nothing surprising in this.
-If they but knew it, almost all men in their degree, some time or other,
-cherish very nearly the same feelings towards the ocean with me.
+Kale chips 3 wolf moon poutine, bespoke umami meh chambray jianbing glossier kogi food truck af keffiyeh snackwave chia. Chartreuse venmo food truck poutine subway tile letterpress. Wayfarers master cleanse activated charcoal, blog biodiesel austin iPhone sartorial succulents. Meditation vape prism, direct trade vegan synth messenger bag next level drinking vinegar jean shorts.
