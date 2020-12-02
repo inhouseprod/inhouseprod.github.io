@@ -1,6 +1,7 @@
 ---
 layout: post
 title: This is the title of the first post
+description: This is the story of this very dangerous site. 
 postHero: /images/shark.jpg
 author: Me, Myself, and I
 authorTwitter: https://twitter.com/mhartl
